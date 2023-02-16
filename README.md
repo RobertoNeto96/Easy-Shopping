@@ -1,10 +1,10 @@
-<h1> <i>Travel Locations</i> </h1>
+<h1 align=center> <i>Travel Locations</i> </h1>
 
 <br>
+
+<h2 align=center> Esse foi um dos primeiros projetos que aprendi a fazer no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> </h2>
+
 <br>
-
-<h2> Esse foi um dos primeiro projetos que aprendi a fazer no <a href="https://rodolfomori.com.br/devclub"> DevClub </a> </h2>
-
 <br>
 
 <ul>
