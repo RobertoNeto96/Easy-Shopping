@@ -15,3 +15,8 @@
 
 <h3> <ul> <li> Versão Desktop </li> </ul> </h3>
 <img src="https://github.com/RobertoNeto96/Easy-Shopping/blob/master/assets/Desktop.png?raw=true" width=500px>
+
+<br>
+
+<h3> <ul> <li> Versão Mobile </li> </ul> </h3>
+<img src="https://github.com/RobertoNeto96/Easy-Shopping/blob/master/assets/Mobile.png?raw=true" height=450px>
